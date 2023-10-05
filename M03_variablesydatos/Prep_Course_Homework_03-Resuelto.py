@@ -5,6 +5,7 @@
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
+
 # In[7]:
 
 
@@ -18,6 +19,7 @@ print(a)
 
 
 type(8.5)
+
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
